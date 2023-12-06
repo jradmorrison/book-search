@@ -35,7 +35,7 @@
   <p align="center">
     A simple MERN stack app to search books using Google's API
     <br><br>
-    <a href="" target="_blank">Visit the deployed site here</a>
+    <a href="https://books-books-books-b6mk.onrender.com/" target="_blank">Visit the deployed site here</a>
   </p>
 </div>
 
@@ -72,7 +72,7 @@ No installation necessary
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-To use this application, simply visit the deployed site <a href="" target="_blank">here</a>
+To use this application, simply visit the deployed site <a href="https://books-books-books-b6mk.onrender.com/" target="_blank">here</a>
 
 Here's a quick peek at what you can expect to see!
 
